@@ -1,6 +1,6 @@
 # Error example
 
-Code example for an issue with `nextjs`, when `import csrf` library in `middleware.js` file.
+Code example for an issue with `nextjs`, when `import csrf` in `middleware.js` file.
 
 ## Getting Started
 
